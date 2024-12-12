@@ -1,6 +1,6 @@
 # Hi, I'm Zulqarnain 👋
 
-I'm a final year Computer Science student with a passion for software engineering. I enjoy exploring technologies across the stack and am actively learning and experimenting with:
+I'm a final year Computer Science student with a passion for software engineering. I enjoy exploring technologies across the stack and I am actively learning and experimenting with:
 
 ### Languages:
 <p>
