@@ -1,10 +1,20 @@
 # Hi, I'm Zulqarnain 👋
 
-I'm a final year Computer Science student with a passion for software engineering. I enjoy exploring technologies across the stack and I am actively learning and experimenting with:
+🔭 I’m currently working on my Final Year Project (FYP) related to Computer Vision<br>🌱 I’m currently learning React.js and seeking to complete my stack in PERN<br>
+
+### Socials:
+<p align="left">
+<a href="https://codeforces.com/profile/mwarsi2784" target="blank"><img align="center" src="https://img.shields.io/badge/Codeforces-000000?style=flat-square&logo=codeforces&logoColor=white" alt="mwarsi2784" height="25" width="55" /></a>
+<a href="https://leetcode.com/mwarsi2784" target="blank"><img align="center" src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetCode&logoColor=white" alt="mwarsi2784" height="25" width="55" /></a>
+<a href="https://atcoder.jp/users/mwarsi2784" target="blank"><img align="center" src="https://img.shields.io/badge/AtCoder-00A6D6?style=flat-square&logo=atcoder&logoColor=white" alt="mwarsi2784" height="25" width="55" /></a>
+<a href="https://www.linkedin.com/in/mwarsi2784" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="mwarsi2784" height="25" width="55" /></a>
+<a href="https://cses.fi/user/216850" target="blank"><img align="center" src="https://img.shields.io/badge/CSES-0099FF?style=flat-square&logo=github&logoColor=white" alt="mwarsi2784" height="25" width="55" /></a>
+</p>
 
 ### Languages:
 <p>
   <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+  <img alt="C" src="https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white" height="20"width="50" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img alt="Javascript" src="https://img.shields.io/badge/-javascript-f7df1c?style=flat-square&logo=javascript&logoColor=black" />
 </p>
@@ -26,21 +36,4 @@ I'm a final year Computer Science student with a passion for software engineerin
 ### Tools:
 <p>
   <img alt="Postman" src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
-</p>
-
-### Socials:
-
-<p>
-  <a href="https://codeforces.com/profile/mwarsi2784" style="border: none;>
-    <img alt="Codeforces" src="https://img.shields.io/badge/Codeforces-000000?style=flat-square&logo=codeforces&logoColor=white" />
-  </a>
-  <a href="https://atcoder.jp/users/mwarsi2784" style="border: none;>
-    <img alt="AtCoder" src="https://img.shields.io/badge/AtCoder-00A6D6?style=flat-square&logo=atcoder&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/mwarsi2784" style="border: none;>
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://cses.fi/user/216850" style="border: none;>
-    <img alt="CSES" src="https://img.shields.io/badge/CSES-0099FF?style=flat-square&logo=github&logoColor=white" />
-  </a>
 </p>
