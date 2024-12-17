@@ -27,3 +27,20 @@ I'm a final year Computer Science student with a passion for software engineerin
 <p>
   <img alt="Postman" src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
 </p>
+
+### Socials:
+
+<p>
+  <a href="https://codeforces.com/profile/mwarsi2784">
+    <img alt="Codeforces" src="https://img.shields.io/badge/Codeforces-000000?style=flat-square&logo=codeforces&logoColor=white" />
+  </a>
+  <a href="https://atcoder.jp/users/mwarsi2784">
+    <img alt="AtCoder" src="https://img.shields.io/badge/AtCoder-00A6D6?style=flat-square&logo=atcoder&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/mwarsi2784">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://cses.fi/user/mwarsi2784">
+    <img alt="CSES" src="https://img.shields.io/badge/CSES-0099FF?style=flat-square&logo=github&logoColor=white" />
+  </a>
+</p>
