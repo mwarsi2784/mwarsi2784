@@ -40,7 +40,7 @@ I'm a final year Computer Science student with a passion for software engineerin
   <a href="https://www.linkedin.com/in/mwarsi2784">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://cses.fi/user/mwarsi2784">
+  <a href="https://cses.fi/user/216850">
     <img alt="CSES" src="https://img.shields.io/badge/CSES-0099FF?style=flat-square&logo=github&logoColor=white" />
   </a>
 </p>
