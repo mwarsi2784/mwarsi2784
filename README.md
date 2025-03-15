@@ -23,6 +23,7 @@
   <img alt="Dart" src="https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img alt="Javascript" src="https://img.shields.io/badge/-javascript-f7df1c?style=flat-square&logo=javascript&logoColor=black" />
+  <img alt="Assembly" src="https://img.shields.io/badge/-Assembly-525252?style=flat-square&logo=assemblyscript&logoColor=white" />
 </p>
 
 ### 🌍 Web & Mobile:
