@@ -12,7 +12,7 @@
 <a href="https://codeforces.com/profile/mwarsi2784" target="blank"><img align="center" src="https://img.shields.io/badge/Codeforces-000000?style=flat-square&logo=codeforces&logoColor=white" alt="mwarsi2784" height="25" width="55" /></a>&nbsp;
 <a href="https://leetcode.com/mwarsi2784" target="blank"><img align="center" src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetCode&logoColor=white" alt="mwarsi2784" height="25" width="55" /></a>
 <a href="https://atcoder.jp/users/mwarsi2784" target="blank"><img align="center" src="https://img.shields.io/badge/AtCoder-00A6D6?style=flat-square&logo=atcoder&logoColor=white" alt="mwarsi2784" height="25" width="55" /></a>&nbsp;
-<a href="https://cses.fi/user/216850" target="blank"><img align="center" src="https://img.shields.io/badge/CSES-0099FF?style=flat-square&logo=github&logoColor=white" alt="mwarsi2784" height="25" width="55" /></a>
+<a href="https://cses.fi/user/216850" target="blank"><img align="center" src="https://img.shields.io/badge/CSES-0099FF?style=flat-square&logo=github&logoColor=white" alt="mwarsi2784" height="25" width="55" /></a>&nbsp;
 <a href="https://www.hackerrank.com/mwarsi2784" target="blank"><img align="center" src="https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white" alt="mwarsi2784" height="25" width="55" /></a>
 </p>
 
