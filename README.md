@@ -25,7 +25,7 @@
   <img alt="Assembly" src="https://img.shields.io/badge/-Assembly-525252?style=flat-square&logo=assemblyscript&logoColor=white" />
 </p>
 
-### 🌍 Web & Mobile:
+### 📱 Web & Mobile:
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=node.js&logoColor=white" />
