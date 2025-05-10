@@ -58,7 +58,7 @@
 ![LeetCode Stats](https://leetcard.jacoblin.cool/mwarsi2784?theme=dark&font=Montserrat&ext=contest)
 
 ### 📈 Atcoder Stats:
-[Atcoder stats](https://atcoder-readme-stats.vercel.app/stats/mwarsi2784?show_icons=true&width=450)
+![Atcoder stats](https://atcoder-readme-stats.vercel.app/stats/mwarsi2784?show_icons=true&width=450&theme=darcula)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
