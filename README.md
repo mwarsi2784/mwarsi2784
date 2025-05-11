@@ -52,13 +52,13 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mwarsi2784&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact&cache_seconds=1800&card_width=495&hide_progress=false&hide=cmake,swift,c,html,tex&exclude_repo=Cricket-Score-Management-System,CSES_Introductory_Problems,Code_Forces_Practice,classwork_5,classwork_6,TodoApp,ResponsiveListApp,Backend)<br/>
 
 ### 📈 Codeforces Stats:
-[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=mwarsi2784&theme=dark&icon_color=84628f&force_username=true)](https://codeforces.com/profile/mwarsi2784)
+[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=mwarsi2784&theme=dark&icon_color=84628f&force_username=true&text_color=FFFFFF)](https://codeforces.com/profile/mwarsi2784)
 
 ### 📈 Leetcode Stats:
-[![LeetCode Stats](https://leetcard.jacoblin.cool/mwarsi2784?theme=dark&font=Montserrat&ext=contest)](https://leetcode.com/mwarsi2784)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/mwarsi2784?theme=dark&font=Montserrat&ext=contest&font=Sans-Serif&width=495)](https://leetcode.com/mwarsi2784)
 
 ### 📈 Atcoder Stats:
-[![Atcoder stats](https://atcoder-readme-stats.vercel.app/stats/mwarsi2784?show_icons=true&width=450&theme=darcula)](https://atcoder.jp/users/mwarsi2784)
+[![Atcoder stats](https://atcoder-readme-stats.vercel.app/stats/mwarsi2784?show_icons=true&width=495&theme=darcula)](https://atcoder.jp/users/mwarsi2784)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
