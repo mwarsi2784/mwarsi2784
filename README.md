@@ -49,7 +49,7 @@
 ### 📊 GitHub Stats:
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=mwarsi2784&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=1800&card_width=495)<br/>
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mwarsi2784&theme=gotham&hide_border=false&card_width=495)<br/>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mwarsi2784&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact&cache_seconds=1800&card_width=495&hide_progress=false&hide=cmake,swift,c,html,tex&exclude_repo=Cricket-Score-Management-System,CSES_Introductory_Problems,Code_Forces_Practice,classwork_5,classwork_6,TodoApp,ResponsiveListApp,Backend)<br/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mwarsi2784&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact&cache_seconds=1800&card_width=495&hide_progress=false&hide=cmake&langs_count=20&exclude_repo=Cricket-Score-Management-System,CSES_Introductory_Problems,Code_Forces_Practice,classwork_5,classwork_6,TodoApp,ResponsiveListApp,Backend)<br/>
 
 ### 📈 Codeforces Stats:
 [![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=mwarsi2784&theme=dark&icon_color=84628f&force_username=true&text_color=FFFFFF)](https://codeforces.com/profile/mwarsi2784)
