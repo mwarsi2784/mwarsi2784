@@ -27,6 +27,7 @@
 
 ### 📱 Web & Mobile:
 <p>
+  <img alt="Express" src="https://img.shields.io/badge/-Express-F7DF1E?style=flat-square&logo=express&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=node.js&logoColor=white" />
   <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
