@@ -62,27 +62,6 @@
 [![Atcoder stats](https://atcoder-readme-stats.vercel.app/stats/mwarsi2784?show_icons=true&width=495&theme=darcula)](https://atcoder.jp/users/mwarsi2784)
 
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
-  <a href="https://www.linkedin.com/in/mwarsi2784" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" style="height: 20px; border: none; outline: none; text-decoration: none;" />
-  </a>
-  <a href="https://codeforces.com/profile/mwarsi2784" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-000000?style=flat-square&logo=codeforces&logoColor=white" alt="Codeforces" style="height: 20px; border: none; outline: none; text-decoration: none;" />
-  </a>
-  <a href="https://leetcode.com/mwarsi2784" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetCode&logoColor=white" alt="LeetCode" style="height: 20px; border: none; outline: none; text-decoration: none;" />
-  </a>
-  <a href="https://atcoder.jp/users/mwarsi2784" target="_blank">
-    <img src="https://img.shields.io/badge/AtCoder-00A6D6?style=flat-square&logo=atcoder&logoColor=white" alt="AtCoder" style="height: 20px; border: none; outline: none; text-decoration: none;" />
-  </a>
-  <a href="https://cses.fi/user/216850" target="_blank">
-    <img src="https://img.shields.io/badge/CSES-0099FF?style=flat-square&logo=github&logoColor=white" alt="CSES" style="height: 20px; border: none; outline: none; text-decoration: none;" />
-  </a>
-  <a href="https://www.hackerrank.com/mwarsi2784" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white" alt="HackerRank" style="height: 20px; border: none; outline: none; text-decoration: none;" />
-  </a>
-</div>
-
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
