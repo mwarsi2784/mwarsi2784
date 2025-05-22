@@ -2,7 +2,9 @@
 
 # Hi, I'm Zulqarnain 👋
 
-🔭 I’m currently working on my Final Year Project (FYP) related to Computer Vision<br>🌱 I’m currently learning React.js and seeking to complete my stack in PERN<br>
+🔭 I’m currently working on software projects that sharpen my backend and frontend development skills<br>💡 Passionate about solving real-world problems through scalable and efficient software<br>🛠️ Experienced in building REST APIs, handling databases, and deploying web applications<br>🧠 Actively practicing Competitive Programming to improve my problem-solving and algorithmic thinking<br>🌱 I’m currently learning React.js and seeking to complete my stack in PERN<br>
+
+
 
 
   
